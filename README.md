@@ -2,7 +2,7 @@
 <hr>
 I am passionate about Energy and Education!   
 
-Education empowers individuals and communities to grow to their fullest human potential, a harmony of knowledge, wisdom, and compassion. Renewable Energy helps the world evolve, create, and provide essential needs such as clean water and heat. I write code in python, do research, create visualization to communicate information.
+Renewable Energy helps the world evolve, create, and provide essential needs such as clean water and heat. Education empowers individuals and communities to grow to their fullest human potential, a harmony of knowledge, wisdom, and compassion.I write code in python, do research, create visualization to communicate information.
 
 <!--
 Here is some of the stuff I enjoy doing. 
