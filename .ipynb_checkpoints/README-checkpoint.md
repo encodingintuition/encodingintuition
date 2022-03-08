@@ -20,7 +20,7 @@ Here is some of the stuff I enjoy doing.
 Exploration into everything EV and Energy:
 <p align="left">
   <a href="https://github.com/encodingintuition/EV_main"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_main&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Main"></a>
-  <a href="https://github.com/encodingintuition/EV_datasets"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_main&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Datasets"></a>    
+  <a href="https://github.com/encodingintuition/EV_datasets"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_datasets&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Datasets"></a>    
 </p>
 
 
