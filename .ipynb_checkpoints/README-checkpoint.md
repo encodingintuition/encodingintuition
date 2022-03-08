@@ -37,7 +37,7 @@ GIS Mapping
   <a href="https://github.com/encodingintuition/mapping-high_risk_factors_NYC_traffic"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=mapping-high_risk_factors_NYC_traffic&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="mapping-high_risk_factors_NYC_traffic"></a>    
 </p>
 
-
+<br><br><br>
 
 
 <!--
