@@ -16,30 +16,26 @@ Here is some of the stuff I enjoy doing.
 <a href="https://www.linkedin.com/in/christophervillafuerte/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
 
 
-## Main projects
+## Projects
 Exploration into everything EV and Energy:
 <p align="left">
-  <a href="https://github.com/encodingintuition/EV_main"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_main&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Main"></a>
-  <a href="https://github.com/encodingintuition/EV_datasets"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_datasets&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Datasets"></a>    
+  <a href="https://github.com/encodingintuition/EV_main"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_main&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="EV Main"></a>
+  <a href="https://github.com/encodingintuition/EV_datasets"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_datasets&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="EV Datasets"></a>    
 </p>
 
 Natural Language Processing
 
 <p align="left">
-  <a href="https://github.com/encodingintuition/chatbot-hospitality_industry"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=chatbot-hospitality_industry&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="Chatbot Hospitality Industry"></a>
-  <a href="https://github.com/encodingintuition/NPL_binary_classification-targeted_marketing_campaign"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=NPL_binary_classification-targeted_marketing_campaign&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="NPL_binary_classification-targeted_marketing_campaign"></a>    
+  <a href="https://github.com/encodingintuition/chatbot-hospitality_industry"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=chatbot-hospitality_industry&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="Chatbot Hospitality Industry"></a>
+  <a href="https://github.com/encodingintuition/NPL_binary_classification-targeted_marketing_campaign"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=NPL_binary_classification-targeted_marketing_campaign&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="NPL_binary_classification-targeted_marketing_campaign"></a>    
 </p>
 
 GIS Mapping 
 
 <p align="left">
-  <a href="https://github.com/encodingintuition/Hackathon-small_business"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=Hackathon-small_business&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hackathon-small_business"></a>
-  <a href="https://github.com/encodingintuition/mapping-high_risk_factors_NYC_traffic"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=mapping-high_risk_factors_NYC_traffic&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="mapping-high_risk_factors_NYC_traffic"></a>    
+  <a href="https://github.com/encodingintuition/Hackathon-small_business"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=Hackathon-small_business&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="Hackathon-small_business"></a>
+  <a href="https://github.com/encodingintuition/mapping-high_risk_factors_NYC_traffic"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=mapping-high_risk_factors_NYC_traffic&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=2BC20E&hide_border=true&show_icons=false" alt="mapping-high_risk_factors_NYC_traffic"></a>    
 </p>
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=encodingintuition&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&langs_count=4)" alt="encodingintuition" />
-
 
 
 
