@@ -19,8 +19,8 @@ Here is some of the stuff I enjoy doing.
 ## Main projects
 Exploration into everything EV and Energy:
 <p align="left">
-  <a href="https://github.com/encodingintuition/EV_main"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_main&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Main"></a>
-  <a href="https://github.com/encodingintuition/EV_datasets"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_datasetsgit &theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Datasets"></a>    
+  <a href="https://github.com/encodingintuition/EV_main"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_main&theme=react&bg_color=1F222E&title_color=2BC20E&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Main"></a>
+  <a href="https://github.com/encodingintuition/EV_datasets"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=EV_datasetsgit&theme=react&bg_color=2BC20E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EV Datasets"></a>    
 </p>
 
 Natural Language Processing
@@ -33,8 +33,8 @@ Natural Language Processing
 GIS Mapping 
 
 <p align="left">
-  <a href="https://github.com/encodingintuition/Hackathon-small_business"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=Hackathon-small_business&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hackathon-small_business"></a>
-  <a href="https://github.com/encodingintuition/mapping-high_risk_factors_NYC_traffic"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=mapping-high_risk_factors_NYC_traffic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="mapping-high_risk_factors_NYC_traffic"></a>    
+  <a href="https://github.com/encodingintuition/Hackathon-small_business"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=Hackathon-small_business&theme=react&bg_color=FF6700title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hackathon-small_business"></a>
+  <a href="https://github.com/encodingintuition/mapping-high_risk_factors_NYC_traffic"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=encodingintuition&repo=mapping-high_risk_factors_NYC_traffic&theme=react&bg_color=1F222E&title_color=FF6700&icon_color=F8D866&hide_border=true&show_icons=false" alt="mapping-high_risk_factors_NYC_traffic"></a>    
 </p>
 
 
